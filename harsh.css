@@ -1,0 +1,44 @@
+.whole{
+    text-align: center;
+    align-items: center;
+}
+.box1{
+    width: 330px;
+    border-radius: 20px;
+    background-color: rgba(73, 70, 70, 0.746);
+    margin-left: 19px;
+    margin-top: 70px;
+    height: 35px;
+    outline: none;
+    background-repeat: no-repeat;
+}
+.box2{
+    width: 330px;
+    border-radius: 20px;
+    background-color: rgba(73, 70, 70, 0.746);
+    margin-left: 20px;
+    height: 35px;
+    outline:none;
+    background-repeat: no-repeat;
+}
+.label1{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.label2{
+    font-size: 20px;
+}
+.admin{
+    font-size: 25px;
+    margin-left: -80px;
+}
+.but{
+    margin-left: 285px;
+    margin-top: 40px;
+    width:130px;
+    background-color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 20px;
+    font-size: 20px;
+}
